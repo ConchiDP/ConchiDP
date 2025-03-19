@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Conchi Díaz
+<h1>👋 ¡Hola! Soy Conchi Díaz</h1> 
 
 📖 **Aprendiendo**: Actualmente explorando el mundo de la programación y desarrollando mis habilidades en **HTML, CSS y JavaScript**.
 
