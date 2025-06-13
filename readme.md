@@ -19,7 +19,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConchiDP&show_icons=true&theme=radical)
 
-💬 **¿Tienes recomendaciones?**
-Si sabes dónde seguir aprendiendo sobre **GitHub** y **Flutter**, no dudes en decírmelo.🚀
 ---
 ✨ _Siempre aprendiendo y explorando nuevas oportunidades en el mundo del desarrollo._
